@@ -1,4 +1,4 @@
-lxml==4.2.1
+lxml==4.6.2
 pyquery==1.4.0
 Flask==0.12.3
 pandas==0.22.0
